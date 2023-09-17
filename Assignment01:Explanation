@@ -1,1 +1,11 @@
+# IMGD4099
+Recording the process of learning shader programming.
+
+Week01:
+
+In this assignment, I used some basic functions in Webgl to make a simple effect. Since it has been 6 years after I learnt LinearAlgebra, I may need some time to relearn that before I move to the next part. So I did not make some complicated and attractive patttern or noise in this assignment. But I will do that next time. My work flow can mainly break down into two parts. Firstly, I made rainbow color which can be rendered based on the variable "_rainbowDirection". By using the normalized position of every pixel in the screen, it's easy to make different sorts of gradient rainbow color. And this is the color part. And the second part is the shape. I just calculated the distance between every pixel to the center and put the outcome to a sin function, so there, I can make some ripple in the screen. And there are two rectangles in this effect. The first one has a sharp edge but the second one has a relatively soft one. They are built by using step function and smoothstep function. So after creating shapes and color, I can combine them to achieve this basic multi-color wave, which is easy.
+
+In the video, I used a light music. This music has a lively rhythm and gives a sense of calmness. At the first phase, only the soft-rectangle has color. And as the music goes, the ripple gets its color and more ripples come. But after that, only one colorful ripple remain. I just want to use this effect to show my mental world in these years. When I was a child, I was curious about everything outside. Although the outside world was empty for me, just like ripples without color, my heart was colorful just like the rectangles. After growing up, I found the outside world was so amazing and there were more other ripples. I once want to chase all these ripples, but finally I just found that, the most important thing was not to grasp every colorful ripple, but just always have a colorful ripple in my heart.
+
+note: it seems like my laptop performed bad as I add more codes in the web-based environment. And the microphone also worked terribly, so it's hard to say there was any interaction between my code and the music.
 
