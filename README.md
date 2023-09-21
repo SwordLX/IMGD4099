@@ -5,4 +5,4 @@ Assignment #1: [video](https://youtu.be/M6RDzQHjVHA?si=OVEv3hpB3O9V2txH) , [code
 
 Assignment #2: [project](https://scandalous-candy-almandine.glitch.me/) , [repo](https://github.com/SwordLX/IMGD4099/blob/main/Assignment%232/%20main.js), [explanation](https://github.com/SwordLX/IMGD4099/blob/main/Assignment%232/Explanation.md)
 
-Assignment #3:
+Assignment #3: [project](https://blushing-broken-elbow.glitch.me/) ,
