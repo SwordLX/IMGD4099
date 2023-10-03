@@ -9,4 +9,4 @@ Assignment #3: [project](https://blushing-broken-elbow.glitch.me/) , [repo](http
 
 Assignment #4: [project](https://piquant-indecisive-repair.glitch.me/) , [repo](https://github.com/SwordLX/IMGD4099/tree/main/Assignment%234/Code), explanation
 
-Assignment #5: [project](https://night-versed-route.glitch.me/) , [repo](https://github.com/SwordLX/IMGD4099/blob/main/Assignment%235/Code.js) , explanation
+Assignment #5: [project](https://night-versed-route.glitch.me/) , [repo](https://github.com/SwordLX/IMGD4099/blob/main/Assignment%235/Code.js) , [explanation](https://github.com/SwordLX/IMGD4099/blob/main/Assignment%235/Explanation.md)
