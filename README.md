@@ -11,4 +11,4 @@ Assignment #4: [project](https://piquant-indecisive-repair.glitch.me/) , [repo](
 
 Assignment #5: [project](https://night-versed-route.glitch.me/) , [repo](https://github.com/SwordLX/IMGD4099/blob/main/Assignment%235/Code.js) , [explanation](https://github.com/SwordLX/IMGD4099/blob/main/Assignment%235/Explanation.md)
 
-Final Project: [Video](https://youtu.be/VPbRd0oR2uo?si=iNdc_PfUQalJF1K8), [description](https://github.com/SwordLX/IMGD4099/blob/main/Final%20Project/Description.md)
+Final Project: [Video](https://youtu.be/VPbRd0oR2uo?si=iNdc_PfUQalJF1K8), [description]([https://github.com/SwordLX/IMGD4099/blob/main/Final%20Project/Description.md](https://github.com/SwordLX/IMGD4099/blob/main/Final%20Project/Description.md)https://github.com/SwordLX/IMGD4099/blob/main/Final%20Project/Description.md)
