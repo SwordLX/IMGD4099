@@ -2,6 +2,8 @@ For the final project, I want to try 3D things. I choose making something in Unr
 
 Recently, I watched some pictures recording the scene in the ocean. I was fascinated by the beauty of the lanscape under water. Then, I decided to depict such scene in my final project. For achieving this, I need to implement the boid simulation for my fish, underwater post-processing effect and other decorations.
 
+The link of my final outcome: [Fish Flock](https://youtu.be/VPbRd0oR2uo?si=eCp-bTV2jCp-i9gY).
+
 # Fish
 Implementing a boids simulation for fish isn't particularly challenging. I simply defined the five boid rules within the Niagara Module Script (NMS), incorporated some curl noise, and set initial velocity for my particles. NMS functions similarly to the blueprint system but is specialized for particles. Through NMS customization, I gained access to manage nearly every particle within the system. Additionally, I was able to write vertex shaders in HLSL within NMS. So, I make the moving pattern of fish flock.
 
