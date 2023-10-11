@@ -7,6 +7,8 @@ The link of my final outcome: [Fish Flock](https://youtu.be/VPbRd0oR2uo?si=eCp-b
 # Fish
 Implementing a boids simulation for fish isn't particularly challenging. I simply defined the five boid rules within the Niagara Module Script (NMS), incorporated some curl noise, and set initial velocity for my particles. NMS functions similarly to the blueprint system but is specialized for particles. Through NMS customization, I gained access to manage nearly every particle within the system. Additionally, I was able to write vertex shaders in HLSL within NMS. So, I make the moving pattern of fish flock.
 
+Additionally, in NMS, I used audio amplitude as the input to control the intensity of the curl noise in the flock and the brightness of each individual fish. However, this effect may not be very noticeable in the video.
+
 Within the fish shader, I enhance the brightness and vibrancy of the fish flock using the Fresnel function and a normal map derived from the diffuse color texture in Photoshop. This modification renders the fish more prominent and vivid in the scene. Additionally, I performed mathematical calculations based on the current positions of each individual fish. By applying the results to the world position offset, the particles move in a manner that closely resembles the natural behavior of a fish flock.
 
 # post-processing effect
